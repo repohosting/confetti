@@ -1,4 +1,4 @@
-/* .translatepress-en_CA main h1:after, .translatepress-fr_CA main h1:after {
+.translatepress-en_CA main h1:after, .translatepress-fr_CA main h1:after {
     color: #f44336;
     font-weight: 600;
     padding-top: 28px;
@@ -42,4 +42,4 @@
     position: absolute;
     display: inline-block;
     border-left: 20px solid transparent;
-} */
+}
